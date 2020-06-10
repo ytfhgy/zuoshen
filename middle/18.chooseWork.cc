@@ -114,5 +114,7 @@ int main()
         cout<<it<<" ";
     cout<<endl;
 
+    delete [] job;
+
     return 0;
 }
