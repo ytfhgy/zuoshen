@@ -42,10 +42,8 @@ public:
             minIndex=min(minIndex,vec[i]);
         }
         
-
         return indexRight-indexLeft+1;
     }
-
 };
 
 int main()
